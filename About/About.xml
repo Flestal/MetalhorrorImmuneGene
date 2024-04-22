@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>Flestal.MIG</packageId>
+    <name>Metalhorror Immunity Gene</name>
+    <author>Flestal</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <description>
+Metalhorror cannot parasitize Gene Owner.
+    </description>
+    <modDependencies>
+        <li>
+        <packageId>ludeon.rimworld.anomaly</packageId>
+        <displayName>DLC Anomaly</displayName>
+        </li>
+        <li>
+        <packageId>ludeon.rimworld.biotech</packageId>
+        <displayName>DLC Biotech</displayName>
+        </li>
+        <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>ludeon.rimworld.biotech</li>
+        <li>ludeon.rimworld.anomaly</li>
+        <li>brrainz.harmony</li>
+    </loadAfter>
+</ModMetaData>

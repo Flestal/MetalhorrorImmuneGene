@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\MetalhorrorImmuneGene\Assemblies\MetalhorrorImmuneGene.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\MetalhorrorImmuneGene\Assemblies\MetalhorrorImmuneGene.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\MetalhorrorImmuneGene\Source\MetalhorrorImmuneGene\obj\Debug\MetalhorrorImmuneGene.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\MetalhorrorImmuneGene\Source\MetalhorrorImmuneGene\obj\Debug\MetalhorrorImmuneGene.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\MetalhorrorImmuneGene\Source\MetalhorrorImmuneGene\obj\Debug\MetalhorrorImmuneGene.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\MetalhorrorImmuneGene\Source\MetalhorrorImmuneGene\obj\Debug\MetalhorrorImmuneGene.pdb
